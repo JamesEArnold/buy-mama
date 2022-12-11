@@ -1,3 +1,3 @@
-export const testFunction = () => {
-  return true;
-}
+export const testFunction = () => true;
+
+export default testFunction;

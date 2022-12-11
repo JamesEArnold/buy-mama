@@ -1,5 +1,5 @@
-import { ReactElement } from "react";
+import { ReactElement } from 'react';
 
-export const DummyComponent = (): ReactElement => {
-  return <h1>dummy</h1>
-};
+export const DummyComponent = (): ReactElement => <h1>dummy</h1>;
+
+export default DummyComponent;
