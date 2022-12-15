@@ -31,6 +31,7 @@ module.exports = {
     'function-call-argument-newline': [ 'error', 'consistent' ],
     'function-paren-newline': [ 'error', 'consistent' ],
     'import/extensions': 0,
+    'import/prefer-default-export': 0,
     indent: [
       'error',
       2,
