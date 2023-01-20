@@ -25,6 +25,11 @@ a {
   }
   body {
     color: white;
-    background: #86b1c2;
+    /* background: #86b1c2; */
+    background-color: #8BC6EC;
+    background-image: linear-gradient(198deg, #8BC6EC 0%, #3584b6 100%);    
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
   }
 }
